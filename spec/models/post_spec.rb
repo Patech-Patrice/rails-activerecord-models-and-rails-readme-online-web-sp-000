@@ -11,4 +11,3 @@ require 'rails_helper'
     expect(post.post_summary).to eq("My Title - The post description")
   end
 end
-     
